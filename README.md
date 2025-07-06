@@ -1,6 +1,6 @@
 ![logo](https://github.com/Venkat6309/Venkat6309/blob/main/Banner.png.jpg)
 <h1 align="center">Hi 👋, I'm Yemineni Nagavenkat</h1>
-<h3 align="center">Aspiring Full Stack Developer</h3>
+<h3 align="center">Aspiring Full Stack Developer in JSpiders</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkat6309&label=Profile%20views&color=0e75b6&style=flat" alt="venkat6309" /> </p>
 
